@@ -1,6 +1,7 @@
 #Kristopher Sousa
 #Sept 26, 2016
 #Outputs GeoTags from a dir containg JPG GIF PNG TIF files in DD format to a .csv
+# Version 0.1
 
 import exifread
 import os
